@@ -1,8 +1,9 @@
-{\rtf1\mac\ansicpg10000\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww25400\viewh13500\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 IOS Sortcuts: info fotografije i videa}
+
+Sortcuts: info fotografije i videa
+
+U aplikaciji foto trebate nači informacije o fotografijama i video? 
+Zatreba li vam dimenzije fotografije veličina datoteke ili slično, nažalost ne postoji direktna opcija na iphone-u koja to obogučuje, ali postoji aplikacija prečaci koja dolasi več ugrađena na ios, preko te aplikacije možete ciniti razne automatizirane zadatke koje sami možete oblikovati. 
+Tako možete i stvoriti djeljeni prečac koji u izborniku za djeljenje prihvača fotografije i videozapise i informacije o samoj datoteki ispisuje na ekran. 
+Prečac možete izraditi sami, a gotov precac možete preuzeti sa linka:
+https://www.icloud.com/shortcuts/8c6e146243054d4681043b685abdab84
