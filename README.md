@@ -1,3 +1,5 @@
+> **Arhiva od 13. rujna 2026.** Povijesni primjer iOS prečaca za informacije o fotografijama i videima. Izvorna datoteka, demonstracijski video i poveznica ispod ostaju sačuvani. Kompatibilnost sa sadašnjim iOS-om nije ponovno provjeravana pri arhiviranju.
+
  
 
 Sortcuts: info fotografije i videa
